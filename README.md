@@ -1,6 +1,6 @@
 # SSL Certificate Diagnostic Tool
 
-A Python-based diagnostic tool for analyzing SSL/TLS certificates across multiple endpoints. This tool helps system administrators and developers verify SSL configurations and certificate validity.
+A Python-based diagnostic tool for analyzing SSL/TLS certificates across multiple endpoints on the XRPL. This tool helps system administrators and developers verify SSL configurations and certificate validity.
 
 ## Features
 
@@ -183,17 +183,9 @@ The tool provides detailed error messages for common issues:
 - Dependencies listed in requirements.txt
 - Network access to endpoints being tested
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
 
 Junaid Ackroyd (@junaidackroyd)
-
 
 
