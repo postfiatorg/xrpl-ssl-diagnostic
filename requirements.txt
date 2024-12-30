@@ -1,0 +1,17 @@
+# Core SSL/TLS libraries
+pyOpenSSL>=24.0.0
+cryptography>=42.0.0
+certifi>=2024.2.2
+
+# Network requests
+requests>=2.31.0
+urllib3>=2.2.0
+
+# JSON handling
+json5>=0.9.14
+
+# Date/time handling
+python-dateutil>=2.8.2
+
+# CLI argument parsing
+argparse>=1.4.0
